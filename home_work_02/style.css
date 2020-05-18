@@ -1,0 +1,44 @@
+.clearfix {
+    clear: both;
+}
+.box {
+    width: 400px;
+    height: 180px;
+    border: 1px solid #333;
+    padding: 5px;
+}
+.form {
+    float: left;
+}
+.to {
+    float: left;
+    padding-left: 20px;
+}
+.depart {
+    float: left;
+}
+.return {
+    float: left;
+    padding-left: 35px;
+}
+.adult {
+    float: left;
+}
+.child {
+    float: left;
+    padding-left: 5px;
+}
+.infant {
+    float: left;
+    padding-left: 5px;
+}
+.currency {
+    float: left;
+    padding-left: 5px;
+}
+.button {
+    background-color: green;
+    color: white;
+    width: 90px;
+    height: 30px;
+}

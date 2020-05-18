@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework_02</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="">
+        <div class="box">
+            <div class="form">
+                <label for="from">flying from</label> <br>
+                <input type="text" id="from" name="from">
+            </div>
+    
+            <div class="to">
+                <label for="to">To</label> <br>
+                <input type="text" id="to" name="to">
+            </div>
+            <div class="clearfix"></div>
+            <div class="depart">
+                <label for="departing">departing</label> <br>
+                <input type="date" id="departing" name="departing">
+            </div>
+            <div class="return">
+                <label for="returning">returning</label> <br>
+                <input type="date" id="returning" name="returning">
+            </div>
+            <div class="clearfix"></div>
+            <div class="adult">
+                <label for="adult">Adult</label> <br>
+                <input type="number" id="adult" name="adult" min="1" max="10">
+            </div>
+            <div class="child">
+                <label for="adult">Child</label> <br>
+                <input type="number" id="child" name="child" min="0" max="10">
+            </div>
+            <div class="infant">
+                <label for="infant">Infant</label> <br>
+                <input type="number" id="infant" name="infant" min="0" max="10">
+            </div>   
+            <div class="currency">
+                <label for="currency">Currency</label> <br>
+                <select name="currency" id="currency">
+                    <option value="THB">THB</option>
+                    <option value="USD">USD</option>
+                    <option value="JPY">JPY</option>
+                </select>          
+            </div>
+            <div class="clearfix"></div>
+            <br>
+            <input type="submit" class="button" name="submit" value="SEARCH">
+        </div>
+        
+    </form>
+</body>
+</html>
