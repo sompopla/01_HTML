@@ -1,4 +1,5 @@
 CodeCamp#6 Online
+
 Sompop Laya
 1. สร้างหน้า index.html เป็น homepage 
 - มีภาพที่แสดงความเป็นตัวเอง และ motto ประจำตัว
