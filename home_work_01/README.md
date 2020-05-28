@@ -1,6 +1,4 @@
-CodeCamp#6 Online
 
-Sompop Laya
 1. สร้างหน้า index.html เป็น homepage 
 - มีภาพที่แสดงความเป็นตัวเอง และ motto ประจำตัว
 - มี link เข้าสู่หน้า profile และ friend 
@@ -13,3 +11,6 @@ Sompop Laya
 - ชื่อ-นามสกุล,​ ชื่อเล่น,เลขที่, ชื่อกลุ่ม,​ เบอร์โทร, site(github.io) 
 - มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
+
+
+> [**View SourceCode**](https://sompopla.github.io/01_HTML/home_work_01/index.html) 
